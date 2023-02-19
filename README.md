@@ -1,6 +1,7 @@
-## 蜜糖视频App官网
+## 伊甸园视频App官网
 
 #### 回家地址：
+- [x] 链接: https://edenav.tv/
 - [x] 链接: https://anavarbulk.com/
 - [x] 链接2: https://hostingstartshere.com
 
